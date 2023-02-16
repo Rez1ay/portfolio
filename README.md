@@ -7,6 +7,8 @@
 Один был написан с помощью Selenium, другой BeautifulSoup.
 Оба собирают данные в CSV таблицу.
 
+Профиль на сайте фриланса: https://freelancehunt.com/freelancer/Rezlay.html 
+
 
 2. Телеграм бот для интернет магазина:
 
